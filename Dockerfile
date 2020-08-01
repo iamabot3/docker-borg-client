@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:edge
 
 ENV PS1 "\n\n>> borg \W \$ "
 
